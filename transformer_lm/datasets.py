@@ -2,7 +2,7 @@
 
 import io
 import itertools
-import numpy as np
+import numpy as numpy
 import os
 from urllib import request
 import zipfile
